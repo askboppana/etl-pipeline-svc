@@ -1,0 +1,2 @@
+UAT: etl-pipeline-svc STAGE
+Status: PENDING APPROVAL
