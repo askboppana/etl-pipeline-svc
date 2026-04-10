@@ -1,0 +1,4 @@
+Tests: etl-pipeline-svc INT
+TC-001: PASS
+TC-002: PASS
+Coverage: 75%
