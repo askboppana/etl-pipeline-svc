@@ -1,0 +1,2 @@
+SIT: etl-pipeline-svc QA
+Passed: 33 Failed: 1
